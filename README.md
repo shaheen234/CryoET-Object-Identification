@@ -1,4 +1,4 @@
-#CryoET Object Identification - Kaggle Competition
+CryoET Object Identification - Kaggle Competition
 Overview
 This project addresses the challenge of identifying particle centers in 3D tomograms, a vital task in Cryo-Electron Tomography (CryoET). CryoET is a cutting-edge imaging technique used for visualizing molecular-scale biological structures, with applications in medical and biological research.
 
